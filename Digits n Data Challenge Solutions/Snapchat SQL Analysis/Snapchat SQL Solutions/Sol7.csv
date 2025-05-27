@@ -1,0 +1,7 @@
+message_id,sender_id,receiver_id,message_text,media_url,media_type,sent_at,is_read
+4,7,8,"Check out this new movie trailer!",NULL,video,"2025-05-27 12:02:19",0
+6,11,12,"Look at this amazing sunset!",NULL,photo,"2025-05-27 12:02:19",0
+8,15,1,"New year party plans?",NULL,photo,"2025-05-27 12:02:19",0
+9,2,3,"Watch this hilarious meme!",NULL,video,"2025-05-27 12:02:19",0
+11,6,7,"This song is a vibe!",NULL,video,"2025-05-27 12:02:19",0
+13,10,11,"Want to go trekking?",NULL,text,"2025-05-27 12:02:19",0
