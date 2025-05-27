@@ -1,0 +1,6 @@
+victim_id,case_id,victim_name,age,gender,cause_of_death,time_of_death
+1,1,"John Parker",42,Male,"Gunshot Wound","2025-02-10 22:30:00"
+2,2,Unidentified,50,Male,"Blunt Force Trauma","2025-01-15 03:45:00"
+6,6,"Security Guard",55,Male,"Gunshot Wound","2025-01-25 21:50:00"
+9,9,"Mark Rogers",60,Male,Poisoning,"2024-12-10 09:00:00"
+10,10,"Anthony Wright",45,Male,"Multiple Gunshot Wounds","2025-03-01 02:15:00"

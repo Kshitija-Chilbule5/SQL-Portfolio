@@ -1,0 +1,4 @@
+case_status,COUNT(*)
+"Under Investigation",5
+Closed,3
+Open,2

@@ -1,0 +1,5 @@
+crime_type,COUNT(victim_id)
+Murder,4
+Robbery,2
+Fraud,2
+Assault,2

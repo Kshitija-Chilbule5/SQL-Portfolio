@@ -1,0 +1,11 @@
+case_name,crime_type,crime_date,location
+"Downtown Apartment Murder",Murder,2025-02-10,"Downtown, NY"
+"Highway Robbery Incident",Robbery,2025-01-15,"I-95 Highway, NJ"
+"Corporate Fraud Case",Fraud,2024-12-20,"Wall Street, NY"
+"Park Assault Case",Assault,2025-02-05,"Central Park, NY"
+"Suburban Homicide",Murder,2024-11-30,"Brooklyn, NY"
+"Bank Robbery",Robbery,2025-01-25,"Fifth Avenue, NY"
+"Domestic Dispute Turned Murder",Murder,2024-12-15,"Queens, NY"
+"Hit and Run Assault",Assault,2025-02-18,"Broadway, NY"
+"Pension Fund Fraud",Fraud,2024-12-10,"New Jersey, NJ"
+"Warehouse Shooting",Murder,2025-03-01,"Industrial Zone, NY"

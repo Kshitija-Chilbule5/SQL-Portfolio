@@ -1,0 +1,5 @@
+case_id,case_name,crime_type,case_status,crime_date,location,investigating_officer
+3,"Corporate Fraud Case",Fraud,Open,2024-12-20,"Wall Street, NY","Detective Sarah Lee"
+5,"Suburban Homicide",Murder,Closed,2024-11-30,"Brooklyn, NY","Detective Maria Gonzalez"
+7,"Domestic Dispute Turned Murder",Murder,Open,2024-12-15,"Queens, NY","Detective Chris Johnson"
+9,"Pension Fund Fraud",Fraud,"Under Investigation",2024-12-10,"New Jersey, NJ","Detective Mark Rivera"
