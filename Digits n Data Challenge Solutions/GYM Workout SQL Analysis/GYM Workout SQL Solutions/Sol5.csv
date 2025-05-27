@@ -1,0 +1,10 @@
+name,muscle_group,equipment
+"Bench Press",Chest,Barbell
+Squat,Legs,Barbell
+Deadlift,Back,Barbell
+Pull-ups,Back,Bodyweight
+"Bicep Curls",Arms,Dumbbell
+Lunges,Legs,Dumbbell
+"Overhead Press",Shoulders,Barbell
+"Leg Press",Legs,Machine
+Dips,Triceps,Bodyweight
